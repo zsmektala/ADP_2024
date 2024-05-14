@@ -19,7 +19,6 @@ Update the table (today you need to fill at least the first two columns)
 | Jagoda Trzeciak        | [jagodatrzeciak](https://github.com/jagodatrzeciak)     | QQQ | Michał Rembalski, Marta Korpacz, Bruno Puczko-Szymański        |
 | Jakub Binda            | [jbindaAI](https://github.com/jbindaAI)                 |TO DO | Anastasiy Ramanchanka, Konstanty Kraszewski, Michalina Wysocka |
 | Mateusz Chojnacki      | [M-Chojnacki6](https://github.com/M-Chojnacki6)         | ...  | Krzysztof Łukasz, Younginn Park, Daniel Zalewski |
-| Younginn Park          | [young-sudo](https://github.com/young-sudo)             |TBD | Mateusz Chojnacki, Krzysztof Łukasz, Younginn Park, Daniel Zalewski |
 | Łukasz Krzysztof       | [k_lukasz](https://github.com/szysztof17)               | ABC | Mateusz Chojnacki, Younginn Park, Daniel Zalewski |
 | Younginn Park          | [young-sudo](https://github.com/young-sudo)             |TBD | Mateusz Chojnacki, Krzysztof Łukasz, Daniel Zalewski |
 
