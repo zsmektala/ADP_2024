@@ -18,7 +18,7 @@ Update the table (today you need to fill at least the first two columns)
 | Michał Rembalski       | [mrembalski](https://github.com/mrembalski)             | QQQ | Jagoda Trzeciak, Marta Korpacz, Bruno Puczko-Szymański         |
 | Jagoda Trzeciak        | [jagodatrzeciak](https://github.com/jagodatrzeciak)     | QQQ | Michał Rembalski, Marta Korpacz, Bruno Puczko-Szymański        |
 | Jakub Binda            | [jbindaAI](https://github.com/jbindaAI)                 |TO DO | Anastasiy Ramanchanka, Konstanty Kraszewski, Michalina Wysocka |
-
+| Younginn Park            | [young-sudo](https://github.com/young-sudo)                 |TBD | Mateusz Chojnacki, Krzysztof Łukasz, Younginn Park, Daniel Zalewski |
  
 ### Task 2
 Create the directory for your project with README.md file in <b>'projects'</b> directory where you will describe the subject, 
