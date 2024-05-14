@@ -20,7 +20,8 @@ Update the table (today you need to fill at least the first two columns)
 | Jakub Binda            | [jbindaAI](https://github.com/jbindaAI)                 |TO DO | Anastasiy Ramanchanka, Konstanty Kraszewski, Michalina Wysocka |
 | Mateusz Chojnacki      | [M-Chojnacki6](https://github.com/M-Chojnacki6)         | ...  | Krzysztof Łukasz, Younginn Park, Daniel Zalewski |
 | Younginn Park          | [young-sudo](https://github.com/young-sudo)             |TBD | Mateusz Chojnacki, Krzysztof Łukasz, Younginn Park, Daniel Zalewski |
-| Dawid Uchal | [dav3794](https://github.com/dav3794) |  | Maciej Bielecki
+| Łukasz Krzysztof       | [k_lukasz](https://github.com/szysztof17)               | ABC | Mateusz Chojnacki, Younginn Park, Daniel Zalewski |
+| Dawid Uchal            | [dav3794](https://github.com/dav3794)                   |    | Maciej Bielecki
 
  
 ### Task 2
