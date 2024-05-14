@@ -14,7 +14,7 @@ Update the table (today you need to fill at least the first two columns)
 | Surname Name | URL (github) | Project acronim | Other members |
 | --- | --- | --- | --- |
 | Kozlowski Lukasz | [lukasz-kozlowski](https://github.com/lukasz-kozlowski) | TBA | all students |
-| Jan Nowak |  |  |  |
+| Adam Nowak |  |  |  |
 
  
 ### Task 2
