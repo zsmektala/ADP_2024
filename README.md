@@ -17,6 +17,7 @@ Update the table (today you need to fill at least the first two columns)
 | Puczko-Szymański Bruno | [Bruno-PSZ](https://github.com/Bruno-PSZ)               | [3DP](https://github.com/jagodatrzeciak/ADP-project) | Jagoda Trzeciak, Michał Rembelski, Marta Korpacz               |
 | Michał Rembalski       | [mrembalski](https://github.com/mrembalski)             | [3DP](https://github.com/jagodatrzeciak/ADP-project) | Jagoda Trzeciak, Marta Korpacz, Bruno Puczko-Szymański         |
 | Jagoda Trzeciak        | [jagodatrzeciak](https://github.com/jagodatrzeciak)     | [3DP](https://github.com/jagodatrzeciak/ADP-project) | Michał Rembalski, Marta Korpacz, Bruno Puczko-Szymański        |
+|  Marta Korpacz     | ???? | [3DP](https://github.com/jagodatrzeciak/ADP-project) | Michał Rembalski, Jagoda Trzeciak, Bruno Puczko-Szymański        |
 | Jakub Binda            | [jbindaAI](https://github.com/jbindaAI)                 |TO DO | Anastasiy Ramanchanka, Konstanty Kraszewski, Michalina Wysocka |
 | Mateusz Chojnacki      | [M-Chojnacki6](https://github.com/M-Chojnacki6)         | [ECT](https://github.com/M-Chojnacki6/ADP_project) | Krzysztof Łukasz, Younginn Park, Daniel Zalewski |
 | Younginn Park          | [young-sudo](https://github.com/young-sudo)             | [ECT](https://github.com/M-Chojnacki6/ADP_project) | Mateusz Chojnacki, Krzysztof Łukasz, Younginn Park, Daniel Zalewski |
