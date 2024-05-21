@@ -19,12 +19,15 @@ Update the table (today you need to fill at least the first two columns)
 | Jagoda Trzeciak        | [jagodatrzeciak](https://github.com/jagodatrzeciak)     | [3DP](https://github.com/jagodatrzeciak/ADP-project) | Michał Rembalski, Marta Korpacz, Bruno Puczko-Szymański        |
 |  Marta Korpacz     | ???? | [3DP](https://github.com/jagodatrzeciak/ADP-project) | Michał Rembalski, Jagoda Trzeciak, Bruno Puczko-Szymański        |
 | Jakub Binda            | [jbindaAI](https://github.com/jbindaAI)                 |TO DO | Anastasiy Ramanchanka, Konstanty Kraszewski, Michalina Wysocka |
+| Konstanty Kraszewski   | [KraszewskiK](https://github.com/KraszewskiK)           |TO DO | Anastasiy Ramanchanka, Jakub Binda, Michalina Wysocka |
+| Anastasiy Ramanchanka  | ???           |TO DO | Konstanty Kraszewski, Jakub Binda, Michalina Wysocka |
+| Michalina Wysocka  | ???           |TO DO | Konstanty Kraszewski, Jakub Binda, Anastasiy Ramanchanka |
 | Mateusz Chojnacki      | [M-Chojnacki6](https://github.com/M-Chojnacki6)         | [ECT](https://github.com/M-Chojnacki6/ADP_project) | Krzysztof Łukasz, Younginn Park, Daniel Zalewski |
 | Younginn Park          | [young-sudo](https://github.com/young-sudo)             | [ECT](https://github.com/M-Chojnacki6/ADP_project) | Mateusz Chojnacki, Krzysztof Łukasz, Younginn Park, Daniel Zalewski |
 | Łukasz Krzysztof       | [k_lukasz](https://github.com/szysztof17)               | [ECT](https://github.com/M-Chojnacki6/ADP_project) | Mateusz Chojnacki, Younginn Park, Daniel Zalewski |
-| Dawid Uchal            | [dav3794](https://github.com/dav3794)                   | [PSI](https://github.com/dav3794/PsiMol)  | Maciej Bielecki |
-| Konstanty Kraszewski   | [KraszewskiK](https://github.com/KraszewskiK)           |TO DO | Anastasiy Ramanchanka, Jakub Binda, Michalina Wysocka |
 | Daniel Zalewski        | [SleepDealler](https://github.com/SleepDealler)         | [ECT](https://github.com/M-Chojnacki6/ADP_project) | Mateusz Chojnacki, Younginn Park, Krzysztof Łukasz |
+| Dawid Uchal            | [dav3794](https://github.com/dav3794)                   | [PSI](https://github.com/dav3794/PsiMol)  | Maciej Bielecki |
+| Maciej Bielecki        | ???                  | [PSI](https://github.com/dav3794/PsiMol)  | Dawid Uchal |
 
  
 ### Task 2
