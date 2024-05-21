@@ -23,6 +23,7 @@ Update the table (today you need to fill at least the first two columns)
 | Łukasz Krzysztof       | [k_lukasz](https://github.com/szysztof17)               | ABC | Mateusz Chojnacki, Younginn Park, Daniel Zalewski |
 | Dawid Uchal            | [dav3794](https://github.com/dav3794)                   |    | Maciej Bielecki |
 | Konstanty Kraszewski   | [KraszewskiK](https://github.com/KraszewskiK)           |TO DO | Anastasiy Ramanchanka, Jakub Binda, Michalina Wysocka |
+| Daniel Zalewski        | [SleepDealler](https://github.com/SleepDealler)         | ECT | Mateusz Chojnacki, Younginn Park, Krzysztof Łukasz |
 
  
 ### Task 2
