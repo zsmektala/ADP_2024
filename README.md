@@ -21,7 +21,8 @@ Update the table (today you need to fill at least the first two columns)
 | Mateusz Chojnacki      | [M-Chojnacki6](https://github.com/M-Chojnacki6)         | ...  | Krzysztof Łukasz, Younginn Park, Daniel Zalewski |
 | Younginn Park          | [young-sudo](https://github.com/young-sudo)             |TBD | Mateusz Chojnacki, Krzysztof Łukasz, Younginn Park, Daniel Zalewski |
 | Łukasz Krzysztof       | [k_lukasz](https://github.com/szysztof17)               | ABC | Mateusz Chojnacki, Younginn Park, Daniel Zalewski |
-| Dawid Uchal            | [dav3794](https://github.com/dav3794)                   |    | Maciej Bielecki
+| Dawid Uchal            | [dav3794](https://github.com/dav3794)                   |    | Maciej Bielecki |
+| Konstanty Kraszewski   | [KraszewskiK](https://github.com/KraszewskiK)           |TO DO | Anastasiy Ramanchanka, Jakub Binda, Michalina Wysocka |
 
  
 ### Task 2
