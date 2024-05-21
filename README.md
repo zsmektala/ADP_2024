@@ -12,13 +12,13 @@ Architecture of large projects in bioinformatics (2024)
 Update the table (today you need to fill at least the first two columns)
 
 | Surname Name           | URL (github)                                            | Project acronim | Other members                                                  |
-|------------------------|---------------------------------------------------------| --- |----------------------------------------------------------------|
+|------------------------|---------------------------------------------------------| -- |----------------------------------------------------------------|
 | Kozlowski Lukasz       | [lukasz-kozlowski](https://github.com/lukasz-kozlowski) | [TBA](https://github.com/lukasz-kozlowski/ADP_2024/blob/main/project/TBA/README.md) | all students                                                   |
-| Puczko-Szymański Bruno | [Bruno-PSZ](https://github.com/Bruno-PSZ)               |  | Jagoda Trzeciak, Michał Rembelski, Marta Korpacz               |
-| Michał Rembalski       | [mrembalski](https://github.com/mrembalski)             | QQQ | Jagoda Trzeciak, Marta Korpacz, Bruno Puczko-Szymański         |
-| Jagoda Trzeciak        | [jagodatrzeciak](https://github.com/jagodatrzeciak)     | QQQ | Michał Rembalski, Marta Korpacz, Bruno Puczko-Szymański        |
+| Puczko-Szymański Bruno | [Bruno-PSZ](https://github.com/Bruno-PSZ)               | [3DP](https://github.com/jagodatrzeciak/ADP-project) | Jagoda Trzeciak, Michał Rembelski, Marta Korpacz               |
+| Michał Rembalski       | [mrembalski](https://github.com/mrembalski)             | [3DP](https://github.com/jagodatrzeciak/ADP-project) | Jagoda Trzeciak, Marta Korpacz, Bruno Puczko-Szymański         |
+| Jagoda Trzeciak        | [jagodatrzeciak](https://github.com/jagodatrzeciak)     | [3DP](https://github.com/jagodatrzeciak/ADP-project) | Michał Rembalski, Marta Korpacz, Bruno Puczko-Szymański        |
 | Jakub Binda            | [jbindaAI](https://github.com/jbindaAI)                 |TO DO | Anastasiy Ramanchanka, Konstanty Kraszewski, Michalina Wysocka |
-| Mateusz Chojnacki      | [M-Chojnacki6](https://github.com/M-Chojnacki6)         | ...  | Krzysztof Łukasz, Younginn Park, Daniel Zalewski |
+| Mateusz Chojnacki      | [M-Chojnacki6](https://github.com/M-Chojnacki6)         | ... | Krzysztof Łukasz, Younginn Park, Daniel Zalewski |
 | Younginn Park          | [young-sudo](https://github.com/young-sudo)             |TBD | Mateusz Chojnacki, Krzysztof Łukasz, Younginn Park, Daniel Zalewski |
 | Łukasz Krzysztof       | [k_lukasz](https://github.com/szysztof17)               | ABC | Mateusz Chojnacki, Younginn Park, Daniel Zalewski |
 | Dawid Uchal            | [dav3794](https://github.com/dav3794)                   |    | Maciej Bielecki |
