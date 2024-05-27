@@ -28,8 +28,8 @@ Update the table (today you need to fill at least the first two columns)
 | Daniel Zalewski        | [SleepDealler](https://github.com/SleepDealler)         | [ECT](https://github.com/M-Chojnacki6/ADP_project) | Mateusz Chojnacki, Younginn Park, Krzysztof Łukasz |
 | Dawid Uchal            | [dav3794](https://github.com/dav3794)                   | [PSI](https://github.com/dav3794/PsiMol)  | Maciej Bielecki |
 | Maciej Bielecki        | ???                  | [PSI](https://github.com/dav3794/PsiMol)  | Dawid Uchal |
+| Lidia Stadnik          | [lidst](https://github.com/lidst)                       | [PC](https://github.com/Silbena/ProtCon)  | Barbara Popławska, Maria Nizik, Zuzanna Smektała |
 | Barbara Popławska      | [basia-pop](https://github.com/basia-pop)        | [PC](https://github.com/Silbena/ProtCon) | Maria Nizik, Zuzanna Smektała, Lidia Stadnik  |
-| Lidia Stadnik          | [lidst](https://github.com/lidst)                       | [PC](https://github.com/Silbena/ProtCon)           | Barbara Popławska, Maria Nizik, Zuzanna Smektała |
  
 ### Task 2
 Create the directory for your project with README.md file in <b>'projects'</b> directory where you will describe the subject, 
