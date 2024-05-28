@@ -30,7 +30,7 @@ Update the table (today you need to fill at least the first two columns)
 | Maciej Bielecki        | [macbiel](httos://github.com/macbiel)                   | [PSI](https://github.com/dav3794/PsiMol)  | Dawid Uchal |
 | Lidia Stadnik          | [lidst](https://github.com/lidst)                       | [PC](https://github.com/Silbena/ProtCon)  | Barbara Popławska, Maria Nizik, Zuzanna Smektała |
 | Barbara Popławska      | [basia-pop](https://github.com/basia-pop)        | [PC](https://github.com/Silbena/ProtCon) | Maria Nizik, Zuzanna Smektała, Lidia Stadnik  |
- 
+| Zuzanna Smektała      | [basia-pop](https://github.com/zsmektala)        | [PC](https://github.com/Silbena/ProtCon) | Maria Nizik, Barbara Poplawska, Lidia Stadnik  |
 ### Task 2
 Create the directory for your project with README.md file in <b>'projects'</b> directory where you will describe the subject, 
 list the members and document the progress.
