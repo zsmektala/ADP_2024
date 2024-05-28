@@ -17,7 +17,7 @@ Update the table (today you need to fill at least the first two columns)
 | Puczko-Szymański Bruno | [Bruno-PSZ](https://github.com/Bruno-PSZ)               | [3DP](https://github.com/jagodatrzeciak/ADP-project) | Jagoda Trzeciak, Michał Rembelski, Marta Korpacz               |
 | Michał Rembalski       | [mrembalski](https://github.com/mrembalski)             | [3DP](https://github.com/jagodatrzeciak/ADP-project) | Jagoda Trzeciak, Marta Korpacz, Bruno Puczko-Szymański         |
 | Jagoda Trzeciak        | [jagodatrzeciak](https://github.com/jagodatrzeciak)     | [3DP](https://github.com/jagodatrzeciak/ADP-project) | Michał Rembalski, Marta Korpacz, Bruno Puczko-Szymański        |
-|  Marta Korpacz         | [Tunia7](https://github.com/Tunia7)                     | [3DP](https://github.com/jagodatrzeciak/ADP-project) | Michał Rembalski, Jagoda Trzeciak, Bruno Puczko-Szymański        |
+|  Marta Korpacz     | ???? | [3DP](https://github.com/jagodatrzeciak/ADP-project) | Michał Rembalski, Jagoda Trzeciak, Bruno Puczko-Szymański        |
 | Jakub Binda            | [jbindaAI](https://github.com/jbindaAI)                 |[RSSP](https://github.com/jbindaAI/RSSP.git) | Anastasiy Ramanchanka, Konstanty Kraszewski, Michalina Wysocka |
 | Konstanty Kraszewski   | [KraszewskiK](https://github.com/KraszewskiK)           |TO DO | Anastasiy Ramanchanka, Jakub Binda, Michalina Wysocka |
 | Anastasiy Ramanchanka  | ???           |TO DO | Konstanty Kraszewski, Jakub Binda, Michalina Wysocka |
@@ -30,7 +30,7 @@ Update the table (today you need to fill at least the first two columns)
 | Maciej Bielecki        | [macbiel](httos://github.com/macbiel)                   | [PSI](https://github.com/dav3794/PsiMol)  | Dawid Uchal |
 | Lidia Stadnik          | [lidst](https://github.com/lidst)                       | [PC](https://github.com/Silbena/ProtCon)  | Barbara Popławska, Maria Nizik, Zuzanna Smektała |
 | Barbara Popławska      | [basia-pop](https://github.com/basia-pop)        | [PC](https://github.com/Silbena/ProtCon) | Maria Nizik, Zuzanna Smektała, Lidia Stadnik  |
-| Zuzanna Smektała      | [basia-pop](https://github.com/zsmektala)        | [PC](https://github.com/Silbena/ProtCon) | Maria Nizik, Barbara Poplawska, Lidia Stadnik  |
+| Zuzanna Smektała      | [zsmektala](https://github.com/zsmektala)        | [PC](https://github.com/Silbena/ProtCon) | Maria Nizik, Barbara Poplawska, Lidia Stadnik  |
 ### Task 2
 Create the directory for your project with README.md file in <b>'projects'</b> directory where you will describe the subject, 
 list the members and document the progress.
